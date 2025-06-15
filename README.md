@@ -6,7 +6,7 @@ I have done some version control in the past, however, I have hardley implemente
 
 Here in this repo, I will attempt to excercise version control unto my personal projects. Fingers Crossed this will turn out well.
 
-To note: I am in transition to Linux (Ubuntu) and will limit the use of this repo to projects that fall under that umbrella.
+To note: I will try to limit the use of this repo to Linux projects.
 
 Cheers,
 
